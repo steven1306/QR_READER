@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Mapapage extends StatelessWidget {
+class MapaScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
